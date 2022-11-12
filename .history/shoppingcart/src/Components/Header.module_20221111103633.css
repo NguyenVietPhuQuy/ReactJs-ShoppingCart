@@ -1,0 +1,13 @@
+.header{
+    border-radius: 10px;
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0 0 10px 10px;
+    background-color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.content{
+    color: black;
+}

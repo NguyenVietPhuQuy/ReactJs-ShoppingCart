@@ -1,0 +1,15 @@
+.header{
+    border-radius: 10px;
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0 0 20px 20px;
+    background-color: transparent;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-weight: bolder;
+    box-shadow:  0 0 15px black;
+}
+.content{
+    color: black;
+}

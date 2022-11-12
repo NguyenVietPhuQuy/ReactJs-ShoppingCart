@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.home{
+  margin: 0 auto;
+  box-sizing: border-box;
+  font-family:  'Poppins', sans-serif;
+}
